@@ -10,7 +10,8 @@ To design and implement a D flip-flop circuit using Cadence EDA tools, analyze i
 - Cadence Virtuoso Software
 
 ### Circuit Diagram:
-![WhatsApp Image 2024-11-13 at 16 26 07_7924f9ac](https://github.com/user-attachments/assets/51244bbc-7406-48c4-9ca8-6d9f8992ba03)
+![WhatsApp Image 2024-11-13 at 16 26 07_7924f9ac](https://github.com/user-attachments/assets/d693de5b-08c0-4b6b-a788-10a463e87720)
+
 
 
 ### SCHEMATIC SIMULATION:
